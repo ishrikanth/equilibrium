@@ -4,4 +4,5 @@ Classes:
 	Equilibrium - Ffind equilibrium index of the array.
 Usage:
 arr = [1,2,4,5,0,7,5]
-res = Equilibrium.new.calculate(arr,5) returns 4
+res = Equilibrium.new.calculate(arr,5)
+#returns 4
