@@ -1,0 +1,7 @@
+Implementation of ruby find equilibrium index of the array.
+Author: Shrikanth <shrikush01@gmail.com>
+Classes:
+	Equilibrium - Ffind equilibrium index of the array.
+Usage:
+arr = [1,2,4,5,0,7,5]
+res = Equilibrium.new.calculate(arr,5) returns 4
